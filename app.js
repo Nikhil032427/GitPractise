@@ -72,5 +72,7 @@ app.listen("3000",() => {
 //Api key
 // 057c08f6e9916bd4498c5acc2ebf8d12-us21
 
+//Note Api key gets disabled we uploaded online(GitHub), so u have to create an other mail chimp api key
+
 // audiance id
 // a37db254de
